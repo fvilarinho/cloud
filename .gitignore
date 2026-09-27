@@ -1,0 +1,8 @@
+/.idea
+/.secrets
+/docker-compose.yml
+/iac/.terraform*
+/iac/terraform*
+/mcp-servers/cameras/etc
+/nginx/etc
+/search/etc
